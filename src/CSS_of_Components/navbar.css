@@ -1,0 +1,7 @@
+ul li a:hover {
+  background: sandybrown;
+}
+
+.nav-pills .nav-item .nav-link.active {
+  background-color: none;
+}
